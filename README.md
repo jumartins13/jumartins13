@@ -1,10 +1,8 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Juliana Martins
+Juliana Martins
 =======================================================================================================================================
+Hi there!
 
-Frontend Developer
-------------------
-
-I am a frontend developer who loves angular!
+I am an early-career frontend developer who loves angular!
 
 * 🌍  I'm based in Brazil
 * ✉️  You can contact me at [juliana.martinsfarias@gmail.com](mailto:juliana.martinsfarias@gmail.com)
